@@ -1,0 +1,26 @@
+Smith John
+235 125.5 95 164
+Willow Mary
+154 189.5 95 76
+Smite Sallie
+126.5 234 95 64
+Andrews Tom
+20 11 13 11
+Bates Norman
+100 100 100 66
+Williams Horace
+23 45 99 134
+Whitney Anne
+101 102.37 189 34
+Jawie Wallie
+34 243 45 325
+Bunker Marie
+3 13 43 4
+Bear Mopsie
+123 1213 238 8
+Andrews Stephen
+111 20 11 123
+Andrea Stacie
+111 20 11 123
+Name Last
+121 150 125 67
